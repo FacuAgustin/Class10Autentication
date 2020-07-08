@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class10Autentication", "Class10Autentication\Class10Autentication.csproj", "{73D90F73-04E4-4CB8-8051-B5203B29C456}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutenticacionManual", "AutenticacionManual\AutenticacionManual.csproj", "{3EDECA6A-AEB1-47C7-BBE0-8F5F0941B27B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73D90F73-04E4-4CB8-8051-B5203B29C456}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73D90F73-04E4-4CB8-8051-B5203B29C456}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73D90F73-04E4-4CB8-8051-B5203B29C456}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73D90F73-04E4-4CB8-8051-B5203B29C456}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EDECA6A-AEB1-47C7-BBE0-8F5F0941B27B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EDECA6A-AEB1-47C7-BBE0-8F5F0941B27B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EDECA6A-AEB1-47C7-BBE0-8F5F0941B27B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EDECA6A-AEB1-47C7-BBE0-8F5F0941B27B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC2E6036-945D-4AC7-95E6-548682EB3EAB}
+	EndGlobalSection
+EndGlobal
